@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+  
+}
+
+html{
+    text-align: center;
+    margin: 25px;
+    padding-top: 10%;
+    padding-bottom: 50%;
+    background-color: rgb(241, 163, 241);
+}
+
